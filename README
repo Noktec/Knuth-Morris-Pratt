@@ -1,5 +1,6 @@
 This is my implementation of Knuth–Morris–Pratt algorithm
--- USE
+
+-- How to -- 
 
 $ gcc search_KMP.c
 
