@@ -49,7 +49,7 @@ void searchKMP(char *word, int m, char *myString, int n){
 	int kmpNext[m+1];
 	
 
-	//failure function
+	//call to the failure function
 	failureFunction(word,m,kmpNext);
 	
 	j=0;
