@@ -79,7 +79,7 @@ int main(int argc, char **argv){
 
 	int n = strlen(myString);
 
-	int m = strlen(word);;
+	int m = strlen(word);
 
 	printf("KMP: \n");
 	searchKMP(word,m,myString,n);
