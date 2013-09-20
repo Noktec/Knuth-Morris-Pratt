@@ -5,9 +5,15 @@ This is an implementation of the KMP algorithm. This algorithm is used to find a
 
 Getting Started
 --------------
+To compile the example simply use : 
 
 ``$ sudo make``
 
+To use the KMP library create a main.c file and use the following functions :
+
+``searchKMP(word,m,myString,n)``
+
+Where the different variables corresponds to the description of the KMP Algorithm. 
 
 References
 ------------
