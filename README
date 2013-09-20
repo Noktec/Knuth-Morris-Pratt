@@ -1,9 +1,0 @@
-This is my implementation of Knuth–Morris–Pratt algorithm
-
-The goal of this algorithm is to find a Pattern P of length m in a string S of length n.
-
--- How to -- 
-
-$ gcc search_KMP.c
-
-$ ./a.out
