@@ -5,11 +5,11 @@ This is an implementation of the KMP algorithm. This algorithm is used to find a
 
 Getting Started
 --------------
-To compile the example simply use : 
+*To compile the library, simply use : 
 
 ``$ sudo make``
 
-To use the KMP library create a *main.c* file and use the following functions :
+*To use the KMP library create a *main.c* file and use the following functions :
 
 ``searchKMP(pattern,m,text,n);``
 
@@ -17,7 +17,7 @@ Where the different variables correspond to the description of the KMP Algorithm
 
 References
 ------------
-* Donald E. Knuth, James H. Morris, and Vaughan R. Pratt. SIAM Journal on Computing 6(2):323--350 (March 1977)
+* Donald E. Knuth, James H. Morris, and Vaughan R. Pratt. SIAM Journal on Computing 6(2):323--350 (March 1977), Fast Pattern Matching in Strings.
 
 
 License
