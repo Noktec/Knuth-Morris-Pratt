@@ -5,11 +5,11 @@ This is an implementation of the KMP algorithm. This algorithm is used to find a
 
 Getting Started
 --------------
-*To compile the library, simply use : 
+*To compile the library, and use the example : 
 
 ``$ sudo make``
 
-*To use the KMP library create a *main.c* file and use the following functions :
+*To use the KMP library in your projects create a *main.c* file and use the following functions :
 
 ``searchKMP(pattern,m,text,n);``
 
